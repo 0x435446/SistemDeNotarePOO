@@ -22,6 +22,26 @@ def count_inh(path, arr):
 				pass
 	return nr
 
+def foldersurfer(path):
+	arr = os.listdir(path)
+	nr=0
+	for x in arr:
+		if(os.path.isdir(x)):
+			nr+=fileCounter(x)
+		else:
+			nr+=1
+	return nr
+
+def fileCounter(path):
+	newarr=os.listdir(path)
+	nr=0
+	for y in newarr:
+		if(os.path.isdir(y)):
+			nr+=fileCounter(y)
+		else:
+			nr+=1
+	return nr
+
 
 def interface_virtuals(path,array):
 	'''
