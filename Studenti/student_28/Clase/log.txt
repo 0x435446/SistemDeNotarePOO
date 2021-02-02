@@ -1,0 +1,241 @@
+Welcome to the log file of the game!
+The board has been created.
+The peas have moved one position.
+The peas have moved one position.
+A new sun has appeared on the screen.
+The peas have moved one position.
+You took a sun and the score increased.
+The peas have moved one position.
+A new sunflower has been created.
+The sunflower appeared on the screen.
+A new ordinary zombie has been created.
+The ordinary zombie appeared on the screen.
+A new sun has appeared on the screen.
+The peas have moved one position.
+The zombies have moved one position.
+The zombies have moved one position.
+You took a sun and the score increased.
+The peas have moved one position.
+The zombies have moved one position.
+The zombies have moved one position.
+The peas have moved one position.
+The zombies have moved one position.
+A new sun has appeared on the screen.
+The zombies have moved one position.
+The peas have moved one position.
+The zombies have moved one position.
+The zombies have moved one position.
+You took a sun and the score increased.
+The peas have moved one position.
+The zombies have moved one position.
+The zombies have moved one position.
+A new peashooter has been created.
+The peashooter appeared on the screen.
+A new ordinary zombie has been created.
+The ordinary zombie appeared on the screen.
+A new sun has appeared on the screen.
+The peas have moved one position.
+The zombies have moved one position.
+The zombies have moved one position.
+The peas have moved one position.
+The zombies have moved one position.
+You took a sun and the score increased.
+The zombies have moved one position.
+The peas have moved one position.
+The zombies have moved one position.
+You have bought a peashooter.
+A new sun has appeared on the screen.
+The zombies have moved one position.
+A peashooter has been placed at a position and is ready to attack.
+The peas have moved one position.
+The zombies have moved one position.
+The zombies have moved one position.
+A new pea has been created.
+The pea appeared on the screen.
+The peas have moved one position.
+The zombies have moved one position.
+The zombies have moved one position.
+A new ordinary zombie has been created.
+The ordinary zombie appeared on the screen.
+A new sun has appeared on the screen.
+The peas have moved one position.
+The zombies have moved one position.
+The zombies have moved one position.
+A new pea has been created.
+The pea appeared on the screen.
+The peas have moved one position.
+The zombies have moved one position.
+The zombies have moved one position.
+You took a sun and the score increased.
+The peas have moved one position.
+The zombies have moved one position.
+A new buckethead zombie has been created.
+The buckethead zombie appeared on the screen.
+A new sun has appeared on the screen.
+The zombies have moved one position.
+You took a sun and the score increased.
+A new pea has been created.
+The pea appeared on the screen.
+The peas have moved one position.
+The zombies have moved one position.
+You took a sun and the score increased.
+The zombies have moved one position.
+The peas have moved one position.
+The zombies have moved one position.
+The zombies have moved one position.
+A new peashooter has been created.
+The peashooter appeared on the screen.
+A new ordinary zombie has been created.
+The ordinary zombie appeared on the screen.
+A new sun has appeared on the screen.
+A new pea has been created.
+The pea appeared on the screen.
+The peas have moved one position.
+The zombies have moved one position.
+The zombies have moved one position.
+You took a sun and the score increased.
+The peas have moved one position.
+The zombies have moved one position.
+You have bought a peashooter.
+The zombies have moved one position.
+A new pea has been created.
+The pea appeared on the screen.
+A peashooter has been placed at a position and is ready to attack.
+The peas have moved one position.
+The zombies have moved one position.
+A new sun has appeared on the screen.
+The zombies have moved one position.
+The peas have moved one position.
+The zombies have moved one position.
+The zombies have moved one position.
+A new pea has been created.
+The pea appeared on the screen.
+A new pea has been created.
+The pea appeared on the screen.
+The peas have moved one position.
+The zombies have moved one position.
+The zombies have moved one position.
+A new ordinary zombie has been created.
+The ordinary zombie appeared on the screen.
+A new sun has appeared on the screen.
+The peas have moved one position.
+The zombies have moved one position.
+The zombies have moved one position.
+A new pea has been created.
+The pea appeared on the screen.
+A new pea has been created.
+The pea appeared on the screen.
+The peas have moved one position.
+The zombies have moved one position.
+The zombies have moved one position.
+The peas have moved one position.
+The zombies have moved one position.
+A new sun has appeared on the screen.
+The zombies have moved one position.
+A new pea has been created.
+The pea appeared on the screen.
+A new pea has been created.
+The pea appeared on the screen.
+The peas have moved one position.
+The zombies have moved one position.
+The zombies have moved one position.
+The peas have moved one position.
+The zombies have moved one position.
+The zombies have moved one position.
+A new peashooter has been created.
+The peashooter appeared on the screen.
+A new ordinary zombie has been created.
+The ordinary zombie appeared on the screen.
+A new sun has appeared on the screen.
+A new pea has been created.
+The pea appeared on the screen.
+A new pea has been created.
+The pea appeared on the screen.
+The peas have moved one position.
+The zombies have moved one position.
+The zombies have moved one position.
+The peas have moved one position.
+The zombies have moved one position.
+The zombies have moved one position.
+A new pea has been created.
+The pea appeared on the screen.
+A new pea has been created.
+The pea appeared on the screen.
+The peas have moved one position.
+The zombies have moved one position.
+A new sun has appeared on the screen.
+The zombies have moved one position.
+The peas have moved one position.
+The zombies have moved one position.
+The zombies have moved one position.
+You took a sun and the score increased.
+A new pea has been created.
+The pea appeared on the screen.
+A new pea has been created.
+The pea appeared on the screen.
+The peas have moved one position.
+The zombies have moved one position.
+You took a sun and the score increased.
+The zombies have moved one position.
+You took a sun and the score increased.
+A new buckethead zombie has been created.
+The buckethead zombie appeared on the screen.
+A new ordinary zombie has been created.
+The ordinary zombie appeared on the screen.
+A new sun has appeared on the screen.
+The peas have moved one position.
+The zombies have moved one position.
+The zombies have moved one position.
+You took a sun and the score increased.
+A new pea has been created.
+The pea appeared on the screen.
+A new pea has been created.
+The pea appeared on the screen.
+The peas have moved one position.
+The zombies have moved one position.
+You have bought a peashooter.
+The zombies have moved one position.
+The peas have moved one position.
+The zombies have moved one position.
+A new sun has appeared on the screen.
+The zombies have moved one position.
+A peashooter has been placed at a position and is ready to attack.
+A new pea has been created.
+The pea appeared on the screen.
+A new pea has been created.
+The pea appeared on the screen.
+A new pea has been created.
+The pea appeared on the screen.
+The peas have moved one position.
+The zombies have moved one position.
+The zombies have moved one position.
+The peas have moved one position.
+The zombies have moved one position.
+The zombies have moved one position.
+A new peashooter has been created.
+The peashooter appeared on the screen.
+A new ordinary zombie has been created.
+The ordinary zombie appeared on the screen.
+A new sun has appeared on the screen.
+A new pea has been created.
+The pea appeared on the screen.
+A new pea has been created.
+The pea appeared on the screen.
+A new pea has been created.
+The pea appeared on the screen.
+The peas have moved one position.
+The zombies have moved one position.
+The zombies have moved one position.
+The peas have moved one position.
+The zombies have moved one position.
+The zombies have moved one position.
+A new pea has been created.
+The pea appeared on the screen.
+A new pea has been created.
+The pea appeared on the screen.
+A new pea has been created.
+The pea appeared on the screen.
+The peas have moved one position.
+The zombies have moved one position.
+A new sun has appeared on the screen.
+The zombies have moved one position.
