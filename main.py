@@ -19,7 +19,7 @@ for i in students:
 			command="ls "+folder+i
 			files = subprocess.check_output(command, shell=True).decode().split("\n")
 			for j in files:
-				if(len(j)>0):
+				try:
 					#print ("Fisier:\n",i,"\n",files)
 					stud.nr_crt=nr_crt
 					aux=j.lower()
@@ -55,6 +55,8 @@ for i in students:
 							stud.clase.split("/")[1]+"| wc -l", shell=True).decode().split("\n")
 						#print (''.join(numar_fisiere))
 						stud.numar_fisiere=''.join(numar_fisiere)
+				except:
+					pass
 		students_list.append(stud)
 
 print (len(students_list))
