@@ -1,0 +1,981 @@
+
+
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+S-a dat dublu click pe peashooter
+
+Se plaseaza peashooter
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+S-a dat dublu click pe peashooter
+
+Se plaseaza peashooter
+
+S-a dat dublu click pe sunflower
+
+Se plaseaza sunflower
+
+S-a dat dublu click pe sunflower
+
+Se plaseaza sunflower
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+S-a dat dublu click pe sunflower
+
+Se plaseaza sunflower
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+S-a dat dublu click pe peashooter
+
+Se plaseaza peashooter
+
+Se colecteaza resurse
+
+S-a dat dublu click pe sunflower
+
+Se plaseaza sunflower
+
+S-a dat dublu click pe sunflower
+
+Se plaseaza sunflower
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+S-a dat dublu click pe peashooter
+
+Se plaseaza peashooter
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+S-a dat dublu click pe peashooter
+
+Se plaseaza peashooter
+
+Se colecteaza resurse
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+S-a dat dublu click pe peashooter
+
+Se plaseaza peashooter
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+S-a dat dublu click pe sunflower
+
+Se plaseaza sunflower
+
+Se colecteaza resurse
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+S-a dat dublu click pe peashooter
+
+Se plaseaza peashooter
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+S-a dat dublu click pe sunflower
+
+Se plaseaza sunflower
+
+Se colecteaza resurse
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+S-a dat dublu click pe peashooter
+
+Se plaseaza peashooter
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Joc nou
+
+
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+S-a dat dublu click pe peashooter
+
+Se plaseaza peashooter
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+S-a dat dublu click pe sunflower
+
+Se plaseaza sunflower
+
+Se colecteaza resurse
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Joc nou
+
+
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+S-a dat dublu click pe peashooter
+
+Se plaseaza peashooter
+
+Se colecteaza resurse
+
+S-a dat dublu click pe sunflower
+
+Se plaseaza sunflower
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+S-a dat dublu click pe peashooter
+
+Se plaseaza peashooter
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Joc nou
+
+
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+S-a dat dublu click pe peashooter
+
+Se plaseaza peashooter
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+S-a dat dublu click pe sunflower
+
+Se plaseaza sunflower
+
+Se colecteaza resurse
+
+S-a dat dublu click pe sunflower
+
+Se plaseaza sunflower
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+S-a dat dublu click pe peashooter
+
+Se plaseaza peashooter
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+S-a dat dublu click pe peashooter
+
+Se plaseaza peashooter
+
+Se colecteaza resurse
+
+S-a dat dublu click pe sunflower
+
+Se plaseaza sunflower
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+S-a dat dublu click pe sunflower
+
+Se plaseaza sunflower
+
+S-a dat dublu click pe sunflower
+
+Se plaseaza sunflower
+
+Se colecteaza resurse
+
+S-a dat dublu click pe sunflower
+
+Se plaseaza sunflower
+
+Se colecteaza resurse
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+S-a dat dublu click pe peashooter
+
+Se plaseaza peashooter
+
+Se colecteaza resurse
+
+S-a dat dublu click pe sunflower
+
+Se plaseaza sunflower
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+S-a dat dublu click pe peashooter
+
+Se plaseaza peashooter
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+S-a dat dublu click pe peashooter
+
+Se plaseaza peashooter
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+S-a dat dublu click pe sunflower
+
+Se plaseaza sunflower
+
+Se colecteaza resurse
+
+S-a dat dublu click pe sunflower
+
+Se plaseaza sunflower
+
+S-a dat dublu click pe sunflower
+
+Se plaseaza sunflower
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+Joc nou
+
+
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+S-a dat dublu click pe peashooter
+
+Se plaseaza peashooter
+
+S-a dat dublu click pe sunflower
+
+Se plaseaza sunflower
+
+Se colecteaza resurse
+
+Se colecteaza resurse
+
+S-a dat dublu click pe sunflower
+
+Se plaseaza sunflower
+
+S-a dat dublu click pe sunflower
+
+Se plaseaza sunflower
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+
+Se initializeza chenarul pentru scor
+
+Se afiseaza scena pentru scor
+
+Se initializeza chenarul pentru sori
+
+Se afiseaza chenarul pentru sori
+
+Se initializeza chenarul pentru plante
+
+Se afiseaza chenarul pentru plante
+

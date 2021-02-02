@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameMechanics::Buckethead" Collapsed="true">
+    <Position X="10.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Buckethead.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMechanics::CherryBomb" Collapsed="true">
+    <Position X="1" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIBAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>CherryBomb.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMechanics::Damageable" Collapsed="true">
+    <Position X="7.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAACAAAAAAQAAAAAAAAAQAAAAAgAA=</HashCode>
+      <FileName>Damageable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMechanics::Enemy" Collapsed="true">
+    <Position X="12.5" Y="9.5" Width="1.5" />
+    <InheritanceLine Type="GameMechanics::IDamaging" ManuallyRouted="true">
+      <Path>
+        <Point X="15.75" Y="9.562" />
+        <Point X="15.75" Y="9.665" />
+        <Point X="14.536" Y="9.665" />
+        <Point X="14.536" Y="9.156" />
+        <Point X="13.25" Y="9.156" />
+        <Point X="13.25" Y="9.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>IgAACgCAAAAAAACAAEAABAQAAAAAAAAAAAAAABAAACA=</HashCode>
+      <FileName>Enemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMechanics::Entity" Collapsed="true">
+    <Position X="12" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAgACAAAIAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMechanics::Explosion" Collapsed="true">
+    <Position X="19" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACIAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Explosion.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMechanics::FrozenPea" Collapsed="true">
+    <Position X="23.25" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAQAAABA=</HashCode>
+      <FileName>FrozenPea.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMechanics::GameManager" Collapsed="true">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQIkaAAgAOmIyACEiMIIIAQFBFUCDSRFIBhAgdQcgA=</HashCode>
+      <FileName>GameManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMechanics::Graphics" Collapsed="true">
+    <Position X="16.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Graphics.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMechanics::IDamageable" Collapsed="true">
+    <Position X="7.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>IDamageable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMechanics::IDamaging" Collapsed="true">
+    <Position X="15" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAgAAAAQAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IDamaging.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMechanics::IMoveable" Collapsed="true">
+    <Position X="15.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAABCAAAAAAAAAAAAAAQABAAEAIAAAAAA=</HashCode>
+      <FileName>IMoveable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMechanics::Peashooter" Collapsed="true">
+    <Position X="3.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAIAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Peashooter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMechanics::ISerializable" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEACAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISerializable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMechanics::Level" Collapsed="true">
+    <Position X="30.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACgBAAEAAAAQAAAAACAAAAAAAAAAAAFBgAAAAAEAAA=</HashCode>
+      <FileName>Level.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMechanics::Pea" Collapsed="true">
+    <Position X="21.25" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAACAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pea.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMechanics::Projectile" Collapsed="true">
+    <Position X="21.25" Y="10" Width="1.5" />
+    <InheritanceLine Type="GameMechanics::Entity" ManuallyRouted="true">
+      <Path>
+        <Point X="12.75" Y="5.57" />
+        <Point X="12.75" Y="8.512" />
+        <Point X="22" Y="8.512" />
+        <Point X="22" Y="10" />
+      </Path>
+    </InheritanceLine>
+    <InheritanceLine Type="GameMechanics::IDamaging" ManuallyRouted="true">
+      <Path>
+        <Point X="15.75" Y="9.562" />
+        <Point X="15.75" Y="9.775" />
+        <Point X="22" Y="9.775" />
+        <Point X="22" Y="10" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAACAAgAAAAAAAAAAAACAAAAAAAAAIAA=</HashCode>
+      <FileName>Projectile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMechanics::Plant" Collapsed="true">
+    <Position X="3.25" Y="9.75" Width="1.5" />
+    <InheritanceLine Type="GameMechanics::Entity" ManuallyRouted="true">
+      <Path>
+        <Point X="12.75" Y="5.57" />
+        <Point X="12.75" Y="8.564" />
+        <Point X="4" Y="8.564" />
+        <Point X="4" Y="9.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAQAAAEAQAAAAAAAgAAAgAAAAAQAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Plant.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMechanics::Player" Collapsed="true">
+    <Position X="28.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAIAAABBAAAAEAAAIAAAEEBAAABAAEAwAAIBA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMechanics::PlayerManager" Collapsed="true">
+    <Position X="30.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIABAAAAAAIAwAAAAAIAAAAABAAAQAAAAAAAgAAAA=</HashCode>
+      <FileName>PlayerManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMechanics::Polevaulting" Collapsed="true">
+    <Position X="14" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAACAAAAAIAQAAAAAAAABAgAAABAAAAA=</HashCode>
+      <FileName>Polevaulting.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMechanics::Resource" Collapsed="true">
+    <Position X="14.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIIAAAAAAAAAAAABAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Resource.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMechanics::SnowPea" Collapsed="true">
+    <Position X="3.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>SnowPea.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMechanics::Sun" Collapsed="true">
+    <Position X="14.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAIAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Sun.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMechanics::Sunflower" Collapsed="true">
+    <Position X="7.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAgIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sunflower.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMechanics::SuperZombie" Collapsed="true">
+    <Position X="12.5" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAACAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>SuperZombie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMechanics::Tile" Collapsed="true">
+    <Position X="16.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAQA=</HashCode>
+      <FileName>Tile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMechanics::Wallnut" Collapsed="true">
+    <Position X="5.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAQAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wallnut.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMechanics::Zombie" Collapsed="true">
+    <Position X="12.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAEAAAAAAAAAAAIAAAAAAAAAAAAAAAABAAABA=</HashCode>
+      <FileName>Zombie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserInterface::ConsoleInput" Collapsed="true">
+    <Position X="28.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAICAAgAAAIAAoAAAAAAAAAAAAgAQAIAAAAAAAABA=</HashCode>
+      <FileName>ConsoleInput.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserInterface::ConsoleOutput" Collapsed="true">
+    <Position X="30.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAhAAAIAQAUAAAAAAAAAEAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>ConsoleOutput.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserInterface::Sprite" Collapsed="true">
+    <Position X="32.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAQBAAAAAAAAAI=</HashCode>
+      <FileName>Sprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserInterface::GUI" Collapsed="true">
+    <Position X="28.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAABEgQAJIAAIgBAAAAEAhBAAQAQAAAABQBCAAQA=</HashCode>
+      <FileName>GUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserInterface::IDrawable" Collapsed="true">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAAAAQAAAAAAAgIAQQIAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>IDrawable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Debugging::Exception" Collapsed="true">
+    <Position X="32.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAABAAAAgACA=</HashCode>
+      <FileName>Exception.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Debugging::Logger" Collapsed="true">
+    <Position X="32.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAEAAAAIAIAAAAAAACAAAAABAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Logger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="GameMechanics::EntityID" Collapsed="true">
+    <Position X="32.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAACAAACAAEQAAIKAEARBEEAAAAAABBoAEABA=</HashCode>
+      <FileName>GameSpecifications.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GameMechanics::PlantStatus" Collapsed="true">
+    <Position X="32.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAoAAAAAAEAAAAAAAAAAAAAAAAAAAAAAEAAAACAA=</HashCode>
+      <FileName>GameSpecifications.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GameMechanics::GameStatus" Collapsed="true">
+    <Position X="30.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>GameSpecifications.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GameMechanics::EffectInflicted" Collapsed="true">
+    <Position X="30.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameSpecifications.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="UserInterface::ConsoleColors" Collapsed="true">
+    <Position X="28.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQEAYQIAAEggAIABDgAIAQiMgAAAQAAAAASogQIABAA=</HashCode>
+      <FileName>GameSpecifications.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Debugging::ExceptionTypes" Collapsed="true">
+    <Position X="28.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAJAA=</HashCode>
+      <FileName>Exception.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

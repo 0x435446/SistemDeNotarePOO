@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UserInterface::ConsoleInput" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAgiAAAAAAAAAAUAgQQAIAAIAAAAABA=</HashCode>
+      <FileName>ConsoleInput.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserInterface::ConsoleOutput" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAABAAAAAAAEAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>ConsoleOutput.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coordonate" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAEAAAAAAAAAABAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Coordonate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pea" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Pea.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Peashooter" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAgAAAAAAAAAAAACAAAAAAAAACAAA=</HashCode>
+      <FileName>Peashooter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Plante" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAQAAAAAAAAQAAAAAAAAAIIAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Plante.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proiectile" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkAA=</HashCode>
+      <FileName>Proiectile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Resurse" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAQAAAAAACIAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Resurse.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sun" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAEAAAAAAAAAAgAAQ=</HashCode>
+      <FileName>Sun.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SunFlower" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAQAAAAAAAAAAAAACAAAAAAAAAIAAA=</HashCode>
+      <FileName>SunFlower.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teren" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgICABIAQAIAoAAAAAAEAAAAABAAAAAAAAIAAGAACAA=</HashCode>
+      <FileName>Teren.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zombie" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAQAAAAAAAIAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Zombie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZombieNormal" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAoAAAAAgAQAAAAAAAAAAAA=</HashCode>
+      <FileName>ZombieNormal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BucketHeadZombie" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAA=</HashCode>
+      <FileName>BucketHeadZombie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
