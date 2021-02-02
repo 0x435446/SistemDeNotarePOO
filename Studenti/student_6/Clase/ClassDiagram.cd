@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UserInterface::ConsoleInput" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAgiAAAAAAAAAAUAgQQAIAAIAAAAABA=</HashCode>
+      <FileName>ConsoleInput.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserInterface::ConsoleOutput" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAABAAAAAAAEAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>ConsoleOutput.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Resurse" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAQAAAAAACIAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Resurse.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sun" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAEAAAABAAAAAgAAQ=</HashCode>
+      <FileName>Sun.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teren" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgICABIAQAIAoAAAAAAEAAAAABAAAAAAAAIAAGAACAA=</HashCode>
+      <FileName>Teren.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zombie" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAQAAAAAAAIAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Zombie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZombieNormal" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAABoAAAAAgAYAAAAAAAAAAAA=</HashCode>
+      <FileName>ZombieNormal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coordonate" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAEAAAAAAAAAABAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Coordonate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
