@@ -106,7 +106,8 @@ def count_template(array):
 		if(not os.path.isdir(x)):
 			f=open(x, "r")
 			text=f.read()
-			nr+=text.count("template")
+			if(text.count("template")>1):
+				nr+=1
 	return nr
 
 def count_lines(array):
