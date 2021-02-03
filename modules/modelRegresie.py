@@ -61,6 +61,10 @@ def generateModel(pathToCsv, visual=False):
     #We check it against our test set
     Y_pred = regrModel.predict(X_test)
 
+    #Scale Y_pred between 1- 10
+    scaler= preprocessing.MinMaxScaler(feature_range=(1, 10), copy=True, clip=False).fit(Y_pred.reshape(-1,1))
+    Y_pred = scaler.transform(Y_pred.reshape(-1,1))
+
 
     #Printing informations
 

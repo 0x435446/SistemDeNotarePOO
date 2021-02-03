@@ -5,14 +5,13 @@ from csv_module import *
 from modelRegresie import * 
 from studentGrader import *
 
-
 #Creating the dataset for train
-#generateDatasetCsv("./DataSets/train","./DataSets/labels.txt","./resources/OOPHomeworkTrain.csv")
+##generateDatasetCsv("./DataSets/train","./DataSets/labels.txt","./resources/OOPHomeworkTrain.csv")
 
 #Creating the csv for testing --> No labels
-#generateNormalCsv("./DataSets/test","./resources/OOPHomeworkTest.csv")
+generateNormalCsv("./DataSets/test","./resources/OOPHomeworkTest.csv")
 
 
-modelRegresie = generateModel("./resources/OOPHomeworkTrain.csv")
+modelRegresie = generateModel("./resources/OOPHomeworkTrain.csv",visual=True)
 
 gradeACsvOfStudents("./resources/OOPHomeworkTest.csv",modelRegresie, outputCsv="./resources/OOPHomeworkGraded.csv")

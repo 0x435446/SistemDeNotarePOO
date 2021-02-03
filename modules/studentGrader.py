@@ -23,6 +23,10 @@ def gradeAStudent(stud: Students, modelRegresie):
     #Predicting the grade
     gradePredicted = modelRegresie.predict(X_scaled)
 
+    #Scalling the grade
+    scaler= preprocessing.MinMaxScaler(feature_range=(1, 10), copy=True, clip=False).fit(gradePredicted.reshape(-1,1))
+    gradePredicted = scaler.transform(gradePredicted.reshape(-1,1))
+
     return gradePredicted
 
 
@@ -39,7 +43,12 @@ def gradeACsvOfStudents(csvPath, modelRegresie, outputCsv= None):
     scaler = preprocessing.StandardScaler().fit(X)
     X_scaled = scaler.transform(X)
 
+    #Predicting
     Y_pred = modelRegresie.predict(X_scaled)
+
+    #Scalling the prediction
+    scaler= preprocessing.MinMaxScaler(feature_range=(1, 10), copy=True, clip=False).fit(Y_pred.reshape(-1,1))
+    Y_pred = scaler.transform(Y_pred.reshape(-1,1))
 
     #Adding new column
     X_origin["Nota"] = Y_pred
