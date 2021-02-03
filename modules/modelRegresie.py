@@ -11,6 +11,9 @@ import pandas as pd
 #We use sklearn for splitting the set
 from sklearn.model_selection import train_test_split
 
+#We use preprocessing for scalling
+from sklearn import preprocessing
+
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -21,52 +24,72 @@ from sklearn import linear_model
 from sklearn.metrics import mean_squared_error, r2_score 
 
 import sys
-sys.path.append('../')
+sys.path.append("../")
 
-#Importing the data set
-projectsTrain= pd.read_csv("resources/OOPHomeworkTrain.csv")
-
-#The target is the final grade 
-Y= projectsTrain.Nota
-
-#The variables are the rest of the features except id
-X= projectsTrain.drop(['Nota'],axis=1)
-X= X.drop(['Id'],axis=1)
+def generateModel(pathToCsv, visual=False):
+    print("Generating a linear regression model from "+ pathToCsv)
+    #Importing the data set
+    projectsTrain= pd.read_csv(pathToCsv)
 
 
-#We split the data set into 2 sets: train and test
-test_size_Percentage=0.2
-X_train, X_test,Y_train, Y_test= train_test_split(X,Y,test_size=0.2)
+    #The target is the final grade 
+    Y= projectsTrain.Nota
 
-#Definign the regression model
-regrModel = linear_model.LinearRegression()
-
-#We build our training model
-regrModel.fit(X_train, Y_train)
-
-#We check it against our test set
-Y_pred = regrModel.predict(X_test)
+    #The variables are the rest of the features except id
+    X= projectsTrain.drop(['Nota'],axis=1)
+    X= X.drop(['Id'],axis=1)
 
 
-#Printing informations
+    #We split the data set into 2 sets: train and test --> test = 0.2
+    test_size_Percentage=0.2
+    X_train, X_test,Y_train, Y_test= train_test_split(X,Y,test_size=0.2)
 
-coefIndex =0
-print("The coefficients are:")
-for col in X.columns:
-    print(col+"* %.5f"%regrModel.coef_[coefIndex])
-    coefIndex+=1
+    #Scalling the X_train and X_test data set
+    scaler = preprocessing.StandardScaler().fit(X_train)
+    X_scaled = scaler.transform(X_train)
+    X_train = X_scaled
 
-#print('Coefficients:', regrModel.coef_)
-print('Intercept:',regrModel.intercept_)
-print('RMSE: %.2f'%mean_squared_error(Y_test, Y_pred, squared=False))
-print('Coefficient of determination (R^2):%.2f'%r2_score(Y_test,Y_pred))
+    scaler = preprocessing.StandardScaler().fit(X_test)
+    X_test = scaler.transform(X_test)
+
+    #Definign the regression model
+    regrModel = linear_model.LinearRegression()
+
+    #We build our training model
+    regrModel.fit(X_train, Y_train)
+
+    #We check it against our test set
+    Y_pred = regrModel.predict(X_test)
 
 
-#Plotting the output
-plt.scatter(Y_test, Y_pred, color='black')
-#plt.plot(Y_test, Y_pred, color='blue', linewidth=3)
+    #Printing informations
 
-#plt.xticks(())
-#plt.yticks(())
+    coefIndex =0
+    print("The coefficients are:")
+    for col in X.columns:
+        print(col+"* %.5f"%regrModel.coef_[coefIndex])
+        coefIndex+=1
 
-plt.show()
+    #print('Coefficients:', regrModel.coef_)
+    print('Intercept:',regrModel.intercept_)
+    print('RMSE: %.2f'%mean_squared_error(Y_test, Y_pred, squared=False))
+    print('Coefficient of determination (R^2):%.2f'%r2_score(Y_test,Y_pred))
+
+
+    #Plotting the output
+    plt.scatter(Y_test, Y_pred, color='black')
+
+    #Plotting the linear regression line
+    m,b = np.polyfit(Y_test,Y_pred,1)
+    plt.plot(Y_test, m*Y_test+b)
+
+
+    #Adding labels to the plot
+    if(visual == True):
+        plt.title("Test data vs Predicted")
+        plt.xlabel("ActualVal")
+        plt.ylabel("Predicted Val")
+        plt.xticks(())
+        plt.yticks(())
+        plt.show()
+    return regrModel
