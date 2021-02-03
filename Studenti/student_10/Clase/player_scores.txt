@@ -1,2 +1,0 @@
-lore 0
-lore 13
