@@ -99,3 +99,24 @@ def interface_virtuals(array):
 			interface = 1
 			interfaces += 1
 	return interfaces,abstracts,normals
+
+def count_template(array):
+	nr=0
+	for x in array:
+		if(not os.path.isdir(x)):
+			f=open(x, "r")
+			text=f.read()
+			nr+=text.count("template")
+	return nr
+
+def count_lines(array):
+	nr = 0
+	for x in array:
+		if(not os.path.isdir(x)):
+			f=open(x, "r")
+			while True:
+				nr+=1
+				text=f.readline()
+				if not text:
+					break
+	return nr

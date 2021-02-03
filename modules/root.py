@@ -14,15 +14,17 @@ class Students:
 		self.numar_mosteniri=0
 		self.numar_fisiere=0
 		self.nota= None
+		self.numar_linii=0
+		self.numar_templaturi=0
 
 	def prints(self):
 		self.numar_clase=len(self.classes)
 		if(self.nota == None):
 			return self.nr_crt,int(self.diagrama_clase),int(self.readme),self.numar_clase,\
 			self.numar_clase_normale,self.numar_clase_abstracte,\
-			self.numar_interfete,self.numar_mosteniri,self.virtual_functions,self.numar_fisiere
+			self.numar_interfete,self.numar_mosteniri,self.virtual_functions,self.numar_fisiere, self.numar_templaturi, self.numar_linii
 		else:
 			return self.nr_crt,int(self.diagrama_clase),int(self.readme),self.numar_clase,\
 			self.numar_clase_normale,self.numar_clase_abstracte,\
-			self.numar_interfete,self.numar_mosteniri,self.virtual_functions,self.numar_fisiere, self.nota
+			self.numar_interfete,self.numar_mosteniri,self.virtual_functions,self.numar_fisiere, self.numar_templaturi, self.numar_linii, self.nota
 	

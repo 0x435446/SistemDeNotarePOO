@@ -31,6 +31,12 @@ def extractStudentInfo(folderpath):
     
     #Searching for interfaces
     student.numar_interfete,student.numar_clase_abstracte,student.numar_clase_normale=interface_virtuals(student.headers)
+
+    #Counting the lines of code
+    student.numar_linii=count_lines(student.headers)
+
+    #Searching for templates
+    student.numar_templaturi=count_template(student.headers)
     
     #Let's search for readmes
     for filename in glob.glob(os.path.join(folderpath,'**/*readme*'),recursive=True):
