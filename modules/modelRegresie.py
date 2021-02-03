@@ -20,15 +20,18 @@ from sklearn import linear_model
 #sklearn.metrics has a mean_squared_error equivalents for REMS
 from sklearn.metrics import mean_squared_error, r2_score 
 
+import sys
+sys.path.append('../')
+
 #Importing the data set
-projects= pd.read_csv("../resources/MOCK_DATA.csv")
+projectsTrain= pd.read_csv("resources/OOPHomeworkTrain.csv")
 
 #The target is the final grade 
-Y= projects.nota
+Y= projectsTrain.Nota
 
 #The variables are the rest of the features except id
-X= projects.drop(['nota'],axis=1)
-X= X.drop(['id'],axis=1)
+X= projectsTrain.drop(['Nota'],axis=1)
+X= X.drop(['Id'],axis=1)
 
 
 #We split the data set into 2 sets: train and test

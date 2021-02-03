@@ -1,23 +1,27 @@
 import os
 import subprocess
-def count_virt(path,arr):
+
+#We use re for regexes
+import re
+def count_virt(arr):
 	nr=0
 	for x in arr:
 		if(not os.path.isdir(x)):
-			f=open(path+"/"+x, "r")
+			f=open(x, "r")
 			text=f.read()
 			nr+=text.count("virtual")
 	return nr
 
-def count_inh(path, arr):
+def count_inh(arr):
 	nr=0
 	for x in arr:
 		if(not os.path.isdir(x)):
 			try:
-				command="cat "+path+"/"+x+" | egrep 'class [A-Za-z_-]* *:'"
-				check = subprocess.check_output(command, shell=True)
-				if(len(check)>0):
-					nr+=1
+				with open(x) as f:
+					for line in f:
+						result = re.search("class [A-Za-z_-]* *:",line)
+						if(result is not None):
+							nr+=1
 			except:
 				pass
 	return nr
@@ -43,7 +47,7 @@ def fileCounter(path):
 	return nr
 
 
-def interface_virtuals(path,array):
+def interface_virtuals(array):
 	'''
 	string ="#pragma once\
 		\
@@ -62,7 +66,7 @@ def interface_virtuals(path,array):
 	abstracts=0
 	normals=0
 	for name in array:
-		x = open(path+"/"+name,"r").read().strip().split("\n")
+		x = open(name,"r").read().strip().split("\n")
 		ok = 0
 		da=0
 		virtual = 0
