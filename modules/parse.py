@@ -101,13 +101,14 @@ def interface_virtuals(array):
 	return interfaces,abstracts,normals
 
 def count_template(array):
-	nr=0
-	for x in array:
-		if(not os.path.isdir(x)):
-			f=open(x, "r")
-			text=f.read()
-			nr+=text.count("template")
-	return nr
+    nr=0
+    for x in array:
+        if(not os.path.isdir(x)):
+            f=open(x, "r")
+            text=f.read()
+            if(text.count("template")>1):
+                nr+=1
+    return nr
 
 def count_lines(array):
 	nr = 0

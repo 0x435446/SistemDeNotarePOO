@@ -88,11 +88,13 @@ def generateModel(pathToCsv, visual=False):
     plt.plot(Y_test, m*Y_test+b)
 
 
-    #Adding labels to the plot
     if(visual == True):
         plt.title("Test data vs Predicted")
         plt.xlabel("ActualVal")
         plt.ylabel("Predicted Val")
+        #Adding labels to the plot 
+        plt.suptitle('RMSE: %.2f'%mean_squared_error(Y_test, Y_pred, squared=False),)
+
         plt.xticks(())
         plt.yticks(())
         plt.show()
